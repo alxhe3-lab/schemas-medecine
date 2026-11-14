@@ -3373,5 +3373,119 @@
    }
   ],
   "ignores": []
+ },
+ "Anatomie/TP7": {
+  "titre": "Vascularisation du membre supérieur",
+  "schemas": [
+   {
+    "n": 1,
+    "legende": "Où l'artère change-t-elle de nom ?",
+    "fichier": "Anatomie/TP7/fig01-eb78a549.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP7/fig01-eb78a549.svg",
+    "octets": 3154
+   },
+   {
+    "n": 3,
+    "legende": "Pourquoi les faisceaux s'appellent-ils médial, latéral, postérieur ?",
+    "fichier": "Anatomie/TP7/fig03-acd236c0.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP7/fig03-acd236c0.svg",
+    "octets": 3812
+   },
+   {
+    "n": 8,
+    "legende": "Comment les deux arcades se placent-elles par rapport aux tendons ?",
+    "fichier": "Anatomie/TP7/fig08-3dc6743e.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP7/fig08-3dc6743e.svg",
+    "octets": 2890
+   },
+   {
+    "n": 12,
+    "legende": "Où se trouve chaque groupe dans le creux axillaire ? (la lymphe remonte vers le sommet)",
+    "fichier": "Anatomie/TP7/fig12-1ae4257b.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP7/fig12-1ae4257b.svg",
+    "octets": 4163
+   },
+   {
+    "n": 14,
+    "legende": "Où prend-on le pouls au membre supérieur ?",
+    "fichier": "Anatomie/TP7/fig14-63f809f5.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP7/fig14-63f809f5.svg",
+    "octets": 2704
+   }
+  ],
+  "ignores": [
+   0,
+   2,
+   4,
+   5,
+   6,
+   7,
+   9,
+   10,
+   11,
+   13
+  ]
+ },
+ "Biochimie/TP7": {
+  "titre": "Dosage des transaminases (ALAT, ASAT)",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Du tube au diagnostic : sérum, mesure de l'activité, interprétation.",
+    "fichier": "Biochimie/TP7/fig00-dc2ec285.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig00-dc2ec285.svg",
+    "octets": 2984
+   },
+   {
+    "n": 1,
+    "legende": "Que compte-t-on quand on dose une enzyme ?",
+    "fichier": "Biochimie/TP7/fig01-184e5749.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig01-184e5749.svg",
+    "octets": 2376
+   },
+   {
+    "n": 2,
+    "legende": "Que contient le tube après centrifugation ?",
+    "fichier": "Biochimie/TP7/fig02-e1799cf2.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig02-e1799cf2.svg",
+    "octets": 2570
+   },
+   {
+    "n": 3,
+    "legende": "Par où passe la lumière dans le spectrophotomètre ?",
+    "fichier": "Biochimie/TP7/fig03-423f7e9f.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig03-423f7e9f.svg",
+    "octets": 2760
+   },
+   {
+    "n": 4,
+    "legende": "Comment les transaminases arrivent-elles dans le sang ?",
+    "fichier": "Biochimie/TP7/fig04-77f54699.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig04-77f54699.svg",
+    "octets": 3177
+   },
+   {
+    "n": 5,
+    "legende": "Pourquoi l'absorbance baisse-t-elle quand l'ALAT travaille ?",
+    "fichier": "Biochimie/TP7/fig05-eb0665ba.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig05-eb0665ba.svg",
+    "octets": 4115
+   },
+   {
+    "n": 6,
+    "legende": "Où lit-on ΔA et Δt ?",
+    "fichier": "Biochimie/TP7/fig06-46a1aea3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig06-46a1aea3.svg",
+    "octets": 2250
+   },
+   {
+    "n": 7,
+    "legende": "Que dit la valeur du rapport ASAT / ALAT ?",
+    "fichier": "Biochimie/TP7/fig07-3da5e54e.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP7/fig07-3da5e54e.svg",
+    "octets": 2615
+   }
+  ],
+  "ignores": []
  }
 }
