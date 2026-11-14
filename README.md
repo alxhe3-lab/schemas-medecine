@@ -1,13 +1,13 @@
-# Schémas de médecine en français 🩺
+# Schémas de médecine en français
 
-**425 schémas clairs et colorés** pour la 1re année de médecine : physiologie, biochimie, biophysique, anatomie et embryologie. En français, libres d'utilisation (CC BY 4.0).
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 425 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
-Chaque schéma répond à une question (« Où se place le potentiel de repos, et pourquoi ? ») et se lit en quelques secondes : des couleurs qui ont un sens, des flèches, des étiquettes posées sur le dessin.
+Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
 <p align="center">
 <img src="Biophysique/TP5/fig04-177f26b5.svg" alt="Le bon schéma : quelle couleur est la plus déviée ?" width="48%">
 <img src="Biochimie/CM2/fig04-8afeec8d.svg" alt="Qu'est-ce qui part quand deux acides aminés se lient ?" width="48%">
-<img src="Physiologie/CM2/fig00-6ba08680.svg" alt="Le signal nerveux en une courbe : un stimulus, Na⁺ entre, K⁺ sort, puis retour au repos." width="48%">
+<img src="Physiologie/CM2/fig04-d5df5c4a.svg" alt="Que devient un globule rouge dans chaque milieu ?" width="48%">
 <img src="Anatomie/CM2/fig06-ed26252a.svg" alt="Où est l'ovocyte dans le follicule de Graaf ?" width="48%">
 </p>
 
@@ -71,24 +71,24 @@ Chaque schéma répond à une question (« Où se place le potentiel de repos, e
 - [TP6 · Le muscle lisse, comparé au muscle squelettique](Physiologie/TP6/) : 8 schémas
 - [TP7 · Le sang : hématocrite, VSH, numération des hématies](Physiologie/TP7/) : 8 schémas
 
-## D'où viennent-ils ?
+## Comment ils sont faits
 
-Ils sont tirés de cours « optimisés » : pour chaque cours magistral ou TP, Claude (l'IA d'Anthropic) croise l'enregistrement du cours, les notes et les diapos, puis fait une page de révision illustrée. Ces schémas en sont extraits automatiquement, en SVG.
+Après chaque cours, Claude croise l'enregistrement, mes notes et les diapos du prof pour faire une fiche de révision illustrée. Les schémas sont extraits automatiquement de ces fiches le soir même.
 
-Ils suivent les cours d'une faculté francophone : vérifie toujours avec ton propre cours, ton prof a le dernier mot. Une erreur ? Ouvre une *issue*.
+Ils suivent les cours de ma fac, donc compare toujours avec ton propre cours : c'est ton prof qui a le dernier mot. Si tu vois une erreur, ouvre une issue, ça m'aide aussi.
 
 ## Les utiliser
 
-- **Dans un document ou une page web** : chaque schéma est un fichier `.svg` (net à toutes les tailles). Clique dessus, puis « Download raw file ».
-- **Dans une conversation avec Claude** (outil de dessin du chat) : `<img src="https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/<chemin du schéma>" style="max-width:100%">`. Le schéma s'affiche à l'endroit exact de la réponse. C'est ce qu'utilise le skill [explication-claire](https://github.com/alxhe3-lab/claude-explain-like-chatgpt).
-- `index.json` liste tous les schémas : matière, cours, légende, adresse.
+Ce sont des fichiers SVG, donc nets à n'importe quelle taille. Tu peux les mettre dans tes fiches, tes présentations ou tes notes. `index.json` liste tout (matière, cours, légende, lien).
+
+Tu peux aussi les afficher directement dans une conversation avec Claude, au milieu d'une explication : j'explique comment dans [claude-inline-images](https://github.com/alxhe3-lab/claude-inline-images).
 
 ## Licence
 
-Schémas sous licence [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr) : tu peux les copier, les modifier et les partager, même en dehors des cours, en citant la source (« schemas-medecine, alxhe3-lab »).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr) : tu peux les copier, les modifier et les partager, il faut juste citer « schemas-medecine, alxhe3-lab ».
 
-Si ça t'aide pour tes révisions, une ⭐ aide d'autres étudiants à trouver le dépôt.
+Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres étudiants à tomber dessus.
 
 ---
 
-*425 diagrams for first-year medical students, in French: physiology, biochemistry, biophysics, anatomy. Free to use (CC BY 4.0).*
+*425 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
