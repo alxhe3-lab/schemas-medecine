@@ -3487,5 +3487,74 @@
    }
   ],
   "ignores": []
+ },
+ "Anatomie/CM7": {
+  "titre": "Des semaines 5 à 8 au placenta",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Où est-on ? La fin de la période embryonnaire, et le placenta qui l'accompagne.",
+    "fichier": "Anatomie/CM7/fig00-1aa8baad.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig00-1aa8baad.svg",
+    "octets": 3981
+   },
+   {
+    "n": 1,
+    "legende": "Les deux plicatures de la 4e semaine",
+    "fichier": "Anatomie/CM7/fig01-ea6d2d7b.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig01-ea6d2d7b.svg",
+    "octets": 3790
+   },
+   {
+    "n": 2,
+    "legende": "Pourquoi le cœur se retrouve-t-il dans le thorax ?",
+    "fichier": "Anatomie/CM7/fig02-22aa1a23.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig02-22aa1a23.svg",
+    "octets": 5094
+   },
+   {
+    "n": 3,
+    "legende": "Que trouve-t-on dans le cordon ? (coupe transversale)",
+    "fichier": "Anatomie/CM7/fig03-2ef8681f.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig03-2ef8681f.svg",
+    "octets": 5848
+   },
+   {
+    "n": 4,
+    "legende": "Une vignette par semaine : ce qui apparaît",
+    "fichier": "Anatomie/CM7/fig04-fc8ff6e8.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig04-fc8ff6e8.svg",
+    "octets": 12480
+   },
+   {
+    "n": 5,
+    "legende": "Les trois décidues et les deux chorions",
+    "fichier": "Anatomie/CM7/fig05-635372fc.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig05-635372fc.svg",
+    "octets": 6626
+   },
+   {
+    "n": 6,
+    "legende": "Qu'est-ce qu'une villosité tertiaire contient de plus ?",
+    "fichier": "Anatomie/CM7/fig06-ea66f579.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig06-ea66f579.svg",
+    "octets": 15129
+   },
+   {
+    "n": 7,
+    "legende": "Qu'est-ce qui accroche le placenta à la mère ?",
+    "fichier": "Anatomie/CM7/fig07-bc7c7c90.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig07-bc7c7c90.svg",
+    "octets": 9263
+   },
+   {
+    "n": 8,
+    "legende": "Le schéma à avoir en tête pour ces questions",
+    "fichier": "Anatomie/CM7/fig08-635372fc.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM7/fig08-635372fc.svg",
+    "octets": 6626
+   }
+  ],
+  "ignores": []
  }
 }

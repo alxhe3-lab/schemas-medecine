@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 438 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 447 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -13,7 +13,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 
 ## Par matière
 
-### Anatomie (107 schémas)
+### Anatomie (116 schémas)
 
 - [CM1 · Gamétogenèse et spermatogenèse](Anatomie/CM1/) : 13 schémas
 - [CM2 · L'ovogenèse et le cycle](Anatomie/CM2/) : 11 schémas
@@ -21,6 +21,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [CM4 · Fin de la 2e semaine et 3e semaine](Anatomie/CM4/) : 10 schémas
 - [CM5 · 4e semaine : somites, tube neural, crêtes](Anatomie/CM5/) : 7 schémas
 - [CM6 · La 4e semaine : du disque au tube](Anatomie/CM6/) : 9 schémas
+- [CM7 · Des semaines 5 à 8 au placenta](Anatomie/CM7/) : 9 schémas
 - [TP1 · S'orienter, la colonne, le thorax et l'épaule](Anatomie/TP1/) : 10 schémas
 - [TP2 · Le membre supérieur libre : humérus, radius, ulna, main](Anatomie/TP2/) : 10 schémas
 - [TP3 · L'os coxal](Anatomie/TP3/) : 10 schémas
@@ -93,4 +94,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*438 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*447 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
