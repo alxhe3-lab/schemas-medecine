@@ -3556,5 +3556,191 @@
    }
   ],
   "ignores": []
+ },
+ "Anatomie/CM8": {
+  "titre": "Placenta, liquide amniotique et sac vitellin",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "L'utérus à terme : les numéros sont ceux des parties du cours.",
+    "fichier": "Anatomie/CM8/fig00-dd62cf2f.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig00-dd62cf2f.svg",
+    "octets": 7721
+   },
+   {
+    "n": 1,
+    "legende": "Coupe du placenta à terme : qui est fœtal, qui est maternel ?",
+    "fichier": "Anatomie/CM8/fig01-e2e91455.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig01-e2e91455.svg",
+    "octets": 22999
+   },
+   {
+    "n": 2,
+    "legende": "Que traverse la paroi de la villosité, et dans quel sens ?",
+    "fichier": "Anatomie/CM8/fig02-54920531.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig02-54920531.svg",
+    "octets": 6914
+   },
+   {
+    "n": 3,
+    "legende": "Pourquoi c'est la deuxième grossesse qui est touchée ?",
+    "fichier": "Anatomie/CM8/fig03-276745c4.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig03-276745c4.svg",
+    "octets": 27418
+   },
+   {
+    "n": 4,
+    "legende": "Ce qui entre, ce qui sort, et quand le volume devient anormal",
+    "fichier": "Anatomie/CM8/fig04-a6017ca5.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig04-a6017ca5.svg",
+    "octets": 4790
+   },
+   {
+    "n": 5,
+    "legende": "Combien de chromosomes, et comment on le voit sur la main ?",
+    "fichier": "Anatomie/CM8/fig05-f28465fb.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig05-f28465fb.svg",
+    "octets": 10179
+   },
+   {
+    "n": 6,
+    "legende": "D'où viennent l'ouraque et le diverticule de Meckel ?",
+    "fichier": "Anatomie/CM8/fig06-8588b570.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig06-8588b570.svg",
+    "octets": 5707
+   },
+   {
+    "n": 7,
+    "legende": "Le schéma à avoir en tête pour ces questions",
+    "fichier": "Anatomie/CM8/fig07-ba2fb271.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/CM8/fig07-ba2fb271.svg",
+    "octets": 4089
+   }
+  ],
+  "ignores": []
+ },
+ "Biochimie/CM8": {
+  "titre": "Glycogène et voie des pentoses phosphates",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le glucose-6-phosphate est au centre : il se stocke en glycogène, en ressort, ou part dans la voie des pentoses.",
+    "fichier": "Biochimie/CM8/fig00-49bba824.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig00-49bba824.svg",
+    "octets": 3934
+   },
+   {
+    "n": 1,
+    "legende": "Où sont les liaisons et les extrémités ?",
+    "fichier": "Biochimie/CM8/fig01-6c6ce139.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig01-6c6ce139.svg",
+    "octets": 4775
+   },
+   {
+    "n": 2,
+    "legende": "Les mêmes numéros : qui coupe quoi ?",
+    "fichier": "Biochimie/CM8/fig02-d0237e73.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig02-d0237e73.svg",
+    "octets": 7087
+   },
+   {
+    "n": 3,
+    "legende": "Pourquoi le foie libère du glucose et pas le muscle ?",
+    "fichier": "Biochimie/CM8/fig03-a826efe3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig03-a826efe3.svg",
+    "octets": 3689
+   },
+   {
+    "n": 4,
+    "legende": "Les 5 étapes, des mêmes numéros",
+    "fichier": "Biochimie/CM8/fig04-f32d7f11.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig04-f32d7f11.svg",
+    "octets": 5609
+   },
+   {
+    "n": 5,
+    "legende": "Jeûne de 24 h : qui monte, qui baisse ?",
+    "fichier": "Biochimie/CM8/fig05-bb20364d.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig05-bb20364d.svg",
+    "octets": 2385
+   },
+   {
+    "n": 6,
+    "legende": "Une enzyme manque : trois conséquences",
+    "fichier": "Biochimie/CM8/fig06-9e5a3895.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig06-9e5a3895.svg",
+    "octets": 3782
+   },
+   {
+    "n": 7,
+    "legende": "Phase oxydative : où sortent les 2 NADPH et le CO₂ ?",
+    "fichier": "Biochimie/CM8/fig07-60854317.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig07-60854317.svg",
+    "octets": 5111
+   },
+   {
+    "n": 8,
+    "legende": "Globule rouge : à quoi sert le NADPH ?",
+    "fichier": "Biochimie/CM8/fig08-2ce4a1c3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig08-2ce4a1c3.svg",
+    "octets": 3017
+   },
+   {
+    "n": 9,
+    "legende": "Les 4 thèmes qui reviennent",
+    "fichier": "Biochimie/CM8/fig09-c8bd52d6.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM8/fig09-c8bd52d6.svg",
+    "octets": 2230
+   }
+  ],
+  "ignores": []
+ },
+ "Biophysique/TP8": {
+  "titre": "La polarimétrie",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le chemin de la lumière : lampe, polariseur, cuve, analyseur, œil.",
+    "fichier": "Biophysique/TP8/fig00-009aacbe.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP8/fig00-009aacbe.svg",
+    "octets": 3442
+   },
+   {
+    "n": 1,
+    "legende": "Avant et après le filtre : dans combien de directions la lumière vibre-t-elle ?",
+    "fichier": "Biophysique/TP8/fig01-f181ed71.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP8/fig01-f181ed71.svg",
+    "octets": 2393
+   },
+   {
+    "n": 2,
+    "legende": "Lequel des deux rayons sort du prisme ?",
+    "fichier": "Biophysique/TP8/fig02-4ad37d70.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP8/fig02-4ad37d70.svg",
+    "octets": 3937
+   },
+   {
+    "n": 3,
+    "legende": "Les pièces du polarimètre, dans l'ordre",
+    "fichier": "Biophysique/TP8/fig03-2629ccf0.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP8/fig03-2629ccf0.svg",
+    "octets": 3562
+   },
+   {
+    "n": 4,
+    "legende": "Comment lire l'angle sur le vernier ?",
+    "fichier": "Biophysique/TP8/fig04-297fc697.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP8/fig04-297fc697.svg",
+    "octets": 7075
+   },
+   {
+    "n": 5,
+    "legende": "Que voit-on sur un préparat de pomme de terre ?",
+    "fichier": "Biophysique/TP8/fig05-e4a189b5.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP8/fig05-e4a189b5.svg",
+    "octets": 2646
+   }
+  ],
+  "ignores": []
  }
 }
