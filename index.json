@@ -3742,5 +3742,81 @@
    }
   ],
   "ignores": []
+ },
+ "Physiologie/CM8": {
+  "titre": "Le tube digestif : rôle et mouvements",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le trajet des aliments ; les numéros renvoient aux parties du cours (≈ 6 m de tube, ≈ 2 jours de transit).",
+    "fichier": "Physiologie/CM8/fig00-92ef8236.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig00-92ef8236.svg",
+    "octets": 6060
+   },
+   {
+    "n": 1,
+    "legende": "En quoi la digestion découpe-t-elle chaque aliment ?",
+    "fichier": "Physiologie/CM8/fig01-9d932c6b.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig01-9d932c6b.svg",
+    "octets": 4921
+   },
+   {
+    "n": 2,
+    "legende": "Combien de temps un aliment reste-t-il à chaque étage ?",
+    "fichier": "Physiologie/CM8/fig02-f45951ed.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig02-f45951ed.svg",
+    "octets": 3366
+   },
+   {
+    "n": 3,
+    "legende": "Quels muscles ferment la bouche, lesquels l'ouvrent ?",
+    "fichier": "Physiologie/CM8/fig03-111d2849.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig03-111d2849.svg",
+    "octets": 3737
+   },
+   {
+    "n": 4,
+    "legende": "Où est le bol à chaque temps, et qu'est-ce qui ferme la trachée ?",
+    "fichier": "Physiologie/CM8/fig04-62148d59.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig04-62148d59.svg",
+    "octets": 5172
+   },
+   {
+    "n": 5,
+    "legende": "Combien de temps dans chaque tiers de l'œsophage, et avec quel muscle ?",
+    "fichier": "Physiologie/CM8/fig05-5199c9b3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig05-5199c9b3.svg",
+    "octets": 3821
+   },
+   {
+    "n": 6,
+    "legende": "Quelle région stocke, quelle région broie ?",
+    "fichier": "Physiologie/CM8/fig06-b9891843.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig06-b9891843.svg",
+    "octets": 4325
+   },
+   {
+    "n": 7,
+    "legende": "Péristaltisme ou segmentation : lequel pousse, lequel mélange ?",
+    "fichier": "Physiologie/CM8/fig07-5d961900.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig07-5d961900.svg",
+    "octets": 3385
+   },
+   {
+    "n": 8,
+    "legende": "Qu'est-ce qui s'ouvre, qu'est-ce qui pousse ?",
+    "fichier": "Physiologie/CM8/fig08-f15e20d3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig08-f15e20d3.svg",
+    "octets": 4380
+   },
+   {
+    "n": 9,
+    "legende": "Où sont les deux plexus, et que commande chacun ?",
+    "fichier": "Physiologie/CM8/fig09-acb864fd.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM8/fig09-acb864fd.svg",
+    "octets": 4185
+   }
+  ],
+  "ignores": []
  }
 }
