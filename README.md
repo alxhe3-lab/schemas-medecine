@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 481 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 486 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -31,7 +31,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP6 · Les muscles de la cuisse, de la jambe et du pied](Anatomie/TP6/) : 2 schémas
 - [TP7 · Vascularisation du membre supérieur](Anatomie/TP7/) : 5 schémas
 
-### Biochimie (152 schémas)
+### Biochimie (157 schémas)
 
 - [CM1 · Généralités : les bases de chimie du vivant](Biochimie/CM1/) : 15 schémas
 - [CM2 · Peptides et protéines](Biochimie/CM2/) : 19 schémas
@@ -46,6 +46,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP4 · Ioniser les acides aminés, puis prélever le sang](Biochimie/TP4/) : 11 schémas
 - [TP5 · La catalase et les facteurs de l'activité enzymatique](Biochimie/TP5/) : 8 schémas
 - [TP7 · Dosage des transaminases (ALAT, ASAT)](Biochimie/TP7/) : 8 schémas
+- [TP8 · Les enzymes du sérum : ALAT, GGT et phosphatase alcaline](Biochimie/TP8/) : 5 schémas
 
 ### Biophysique (87 schémas)
 
@@ -98,4 +99,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*481 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*486 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*

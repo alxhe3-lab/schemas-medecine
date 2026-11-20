@@ -3818,5 +3818,50 @@
    }
   ],
   "ignores": []
+ },
+ "Biochimie/TP8": {
+  "titre": "Les enzymes du sérum : ALAT, GGT et phosphatase alcaline",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fil du TP : une enzyme sort de sa cellule, on mesure son activité, puis on en déduit l'organe en cause.",
+    "fichier": "Biochimie/TP8/fig00-9cc29279.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP8/fig00-9cc29279.svg",
+    "octets": 4117
+   },
+   {
+    "n": 1,
+    "legende": "Comment une enzyme de la cellule arrive-t-elle dans le sang ?",
+    "fichier": "Biochimie/TP8/fig01-d5a14dac.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP8/fig01-d5a14dac.svg",
+    "octets": 3184
+   },
+   {
+    "n": 4,
+    "legende": "Que lit-on sur l'appareil pour l'ALAT ?",
+    "fichier": "Biochimie/TP8/fig04-fc0b7e88.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP8/fig04-fc0b7e88.svg",
+    "octets": 2325
+   },
+   {
+    "n": 6,
+    "legende": "Que mesure-t-on dans le dosage de la GGT ?",
+    "fichier": "Biochimie/TP8/fig06-75c839e4.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP8/fig06-75c839e4.svg",
+    "octets": 2536
+   },
+   {
+    "n": 7,
+    "legende": "Comment la PAL aide-t-elle l'os à se minéraliser ?",
+    "fichier": "Biochimie/TP8/fig07-99f2c010.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP8/fig07-99f2c010.svg",
+    "octets": 3650
+   }
+  ],
+  "ignores": [
+   2,
+   3,
+   5
+  ]
  }
 }
