@@ -3863,5 +3863,60 @@
    3,
    5
   ]
+ },
+ "Physiologie/TP8": {
+  "titre": "Les groupes sanguins : AB0 et Rhésus",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fil du cours : l'hématie porte des antigènes, ils donnent le groupe, et la lame les révèle par l'agglutination.",
+    "fichier": "Physiologie/TP8/fig00-1206b06a.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig00-1206b06a.svg",
+    "octets": 4623
+   },
+   {
+    "n": 1,
+    "legende": "Où est l'antigène de groupe ? Sur la membrane de l'hématie",
+    "fichier": "Physiologie/TP8/fig01-60226832.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig01-60226832.svg",
+    "octets": 4117
+   },
+   {
+    "n": 2,
+    "legende": "Chaque groupe : son antigène dessus, l'anticorps contre l'autre autour",
+    "fichier": "Physiologie/TP8/fig02-0b62cb9a.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig02-0b62cb9a.svg",
+    "octets": 4737
+   },
+   {
+    "n": 3,
+    "legende": "Exemple : la lame d'un patient A Rh+",
+    "fichier": "Physiologie/TP8/fig03-7a715fe9.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig03-7a715fe9.svg",
+    "octets": 4397
+   },
+   {
+    "n": 4,
+    "legende": "Le sang va dans le sens des flèches",
+    "fichier": "Physiologie/TP8/fig04-163dcf1c.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig04-163dcf1c.svg",
+    "octets": 3368
+   },
+   {
+    "n": 5,
+    "legende": "Le sérum anti-D sur deux sangs",
+    "fichier": "Physiologie/TP8/fig05-c5848cd4.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig05-c5848cd4.svg",
+    "octets": 2872
+   },
+   {
+    "n": 6,
+    "legende": "Ce que demandent ces questions",
+    "fichier": "Physiologie/TP8/fig06-e0f2a83a.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP8/fig06-e0f2a83a.svg",
+    "octets": 2025
+   }
+  ],
+  "ignores": []
  }
 }

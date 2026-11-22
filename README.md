@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 486 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 493 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -63,7 +63,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP7 · La dialyse et sa mesure par conductimétrie](Biophysique/TP7/) : 3 schémas
 - [TP8 · La polarimétrie](Biophysique/TP8/) : 6 schémas
 
-### Physiologie (118 schémas)
+### Physiologie (125 schémas)
 
 - [CM1 · Le vivant et l'homéostasie](Physiologie/CM1/) : 9 schémas
 - [CM2 · Potentiels membranaires, canaux et pompes](Physiologie/CM2/) : 12 schémas
@@ -78,6 +78,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP5 · La contraction du muscle squelettique](Physiologie/TP5/) : 5 schémas
 - [TP6 · Le muscle lisse, comparé au muscle squelettique](Physiologie/TP6/) : 8 schémas
 - [TP7 · Le sang : hématocrite, VSH, numération des hématies](Physiologie/TP7/) : 8 schémas
+- [TP8 · Les groupes sanguins : AB0 et Rhésus](Physiologie/TP8/) : 7 schémas
 
 ## Comment ils sont faits
 
@@ -99,4 +100,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*486 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*493 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
