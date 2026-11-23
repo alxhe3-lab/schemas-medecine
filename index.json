@@ -3961,5 +3961,39 @@
    16,
    17
   ]
+ },
+ "Biophysique/CM8": {
+  "titre": "Les microscopes : optiques et électroniques",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fil du cours : on passe de la lumière aux électrons pour voir de plus petits détails.",
+    "fichier": "Biophysique/CM8/fig00-25bf2de9.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/CM8/fig00-25bf2de9.svg",
+    "octets": 3841
+   },
+   {
+    "n": 3,
+    "legende": "Pourquoi l'objectif à immersion voit-il plus fin ?",
+    "fichier": "Biophysique/CM8/fig03-21bd3a6f.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/CM8/fig03-21bd3a6f.svg",
+    "octets": 2948
+   },
+   {
+    "n": 4,
+    "legende": "Polariseur et analyseur croisés : pourquoi un fond noir ?",
+    "fichier": "Biophysique/CM8/fig04-b4051227.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/CM8/fig04-b4051227.svg",
+    "octets": 3003
+   }
+  ],
+  "ignores": [
+   1,
+   2,
+   5,
+   6,
+   7,
+   8
+  ]
  }
 }

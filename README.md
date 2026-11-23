@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 496 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 499 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -49,12 +49,13 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP7 · Dosage des transaminases (ALAT, ASAT)](Biochimie/TP7/) : 8 schémas
 - [TP8 · Les enzymes du sérum : ALAT, GGT et phosphatase alcaline](Biochimie/TP8/) : 5 schémas
 
-### Biophysique (87 schémas)
+### Biophysique (90 schémas)
 
 - [CM1 · La biophysique, science de frontière](Biophysique/CM1/) : 8 schémas
 - [CM2 · Drépanocytose, Tchernobyl et imagerie](Biophysique/CM2/) : 12 schémas
 - [CM4 · Méthodes d'étude : l'électrophorèse](Biophysique/CM4/) : 6 schémas
 - [CM5 · Chromatographie, centrifugation, lyophilisation](Biophysique/CM5/) : 11 schémas
+- [CM8 · Les microscopes : optiques et électroniques](Biophysique/CM8/) : 3 schémas
 - [TP1 · Mesurer, convertir, résumer](Biophysique/TP1/) : 5 schémas
 - [TP2 · Optique : les lentilles et l'œil](Biophysique/TP2/) : 9 schémas
 - [TP3 · Radiométrie et dosimétrie](Biophysique/TP3/) : 6 schémas
@@ -101,4 +102,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*496 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*499 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
