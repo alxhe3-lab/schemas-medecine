@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 493 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 496 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -13,7 +13,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 
 ## Par matière
 
-### Anatomie (124 schémas)
+### Anatomie (127 schémas)
 
 - [CM1 · Gamétogenèse et spermatogenèse](Anatomie/CM1/) : 13 schémas
 - [CM2 · L'ovogenèse et le cycle](Anatomie/CM2/) : 11 schémas
@@ -30,6 +30,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP5 · Muscles de la ceinture scapulaire et du membre supérieur](Anatomie/TP5/) : 2 schémas
 - [TP6 · Les muscles de la cuisse, de la jambe et du pied](Anatomie/TP6/) : 2 schémas
 - [TP7 · Vascularisation du membre supérieur](Anatomie/TP7/) : 5 schémas
+- [TP8 · Vaisseaux du bassin et du membre inférieur](Anatomie/TP8/) : 3 schémas
 
 ### Biochimie (157 schémas)
 
@@ -100,4 +101,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*493 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*496 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*

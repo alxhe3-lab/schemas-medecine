@@ -3918,5 +3918,48 @@
    }
   ],
   "ignores": []
+ },
+ "Anatomie/TP8": {
+  "titre": "Vaisseaux du bassin et du membre inférieur",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Une seule artère change de nom en descendant : iliaque externe → fémorale → poplitée → tibiales ; l'iliaque interne reste pour le bassin et la fesse.",
+    "fichier": "Anatomie/TP8/fig00-199fa6cd.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP8/fig00-199fa6cd.svg",
+    "octets": 6923
+   },
+   {
+    "n": 3,
+    "legende": "Pourquoi une cirrhose donne-t-elle des hémorroïdes ?",
+    "fichier": "Anatomie/TP8/fig03-90756bf0.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP8/fig03-90756bf0.svg",
+    "octets": 5393
+   },
+   {
+    "n": 13,
+    "legende": "Pourquoi la jambe n'a-t-elle pas de loge médiale ?",
+    "fichier": "Anatomie/TP8/fig13-3b8248be.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Anatomie/TP8/fig13-3b8248be.svg",
+    "octets": 4114
+   }
+  ],
+  "ignores": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   14,
+   15,
+   16,
+   17
+  ]
  }
 }
