@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 499 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 523 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -49,7 +49,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP7 · Dosage des transaminases (ALAT, ASAT)](Biochimie/TP7/) : 8 schémas
 - [TP8 · Les enzymes du sérum : ALAT, GGT et phosphatase alcaline](Biochimie/TP8/) : 5 schémas
 
-### Biophysique (90 schémas)
+### Biophysique (100 schémas)
 
 - [CM1 · La biophysique, science de frontière](Biophysique/CM1/) : 8 schémas
 - [CM2 · Drépanocytose, Tchernobyl et imagerie](Biophysique/CM2/) : 12 schémas
@@ -64,8 +64,9 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP6 · L'osmose et le microscope optique](Biophysique/TP6/) : 6 schémas
 - [TP7 · La dialyse et sa mesure par conductimétrie](Biophysique/TP7/) : 3 schémas
 - [TP8 · La polarimétrie](Biophysique/TP8/) : 6 schémas
+- [TP9 · Les protéines du sang](Biophysique/TP9/) : 10 schémas
 
-### Physiologie (125 schémas)
+### Physiologie (139 schémas)
 
 - [CM1 · Le vivant et l'homéostasie](Physiologie/CM1/) : 9 schémas
 - [CM2 · Potentiels membranaires, canaux et pompes](Physiologie/CM2/) : 12 schémas
@@ -73,6 +74,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [CM4 · La cellule musculaire striée et sa contraction](Physiologie/CM4/) : 12 schémas
 - [CM5 · Le muscle lisse, puis la physiologie du sang](Physiologie/CM5/) : 12 schémas
 - [CM6 · Hémoglobine, groupes sanguins et début de l'hémostase](Physiologie/CM6/) : 13 schémas
+- [CM7 · Hémostase et fonction défensive du sang](Physiologie/CM7/) : 14 schémas
 - [CM8 · Le tube digestif : rôle et mouvements](Physiologie/CM8/) : 10 schémas
 - [TP2 · Transport membranaire et résistance globulaire](Physiologie/TP2/) : 8 schémas
 - [TP3 · Excitabilité et conduction du nerf et du muscle](Physiologie/TP3/) : 7 schémas
@@ -102,4 +104,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*499 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*523 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*

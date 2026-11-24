@@ -3995,5 +3995,187 @@
    7,
    8
   ]
+ },
+ "Biophysique/TP9": {
+  "titre": "Les protéines du sang",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fil du TP : quantité totale, puis séparation, puis dosage de chaque fraction.",
+    "fichier": "Biophysique/TP9/fig00-70b467e9.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig00-70b467e9.svg",
+    "octets": 4662
+   },
+   {
+    "n": 1,
+    "legende": "Pourquoi le total ne suffit-il pas ?",
+    "fichier": "Biophysique/TP9/fig01-96be3dcc.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig01-96be3dcc.svg",
+    "octets": 2786
+   },
+   {
+    "n": 2,
+    "legende": "Quand l'angle d'incidence devient-il « limite » ?",
+    "fichier": "Biophysique/TP9/fig02-bc5decc3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig02-bc5decc3.svg",
+    "octets": 3082
+   },
+   {
+    "n": 3,
+    "legende": "Le trajet de la lumière dans le réfractomètre",
+    "fichier": "Biophysique/TP9/fig03-39f83d4a.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig03-39f83d4a.svg",
+    "octets": 3291
+   },
+   {
+    "n": 4,
+    "legende": "Où lire l'angle limite dans l'oculaire ?",
+    "fichier": "Biophysique/TP9/fig04-dbfeb916.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig04-dbfeb916.svg",
+    "octets": 2168
+   },
+   {
+    "n": 5,
+    "legende": "Où poser la goutte, et dans quel ordre arrivent les fractions ?",
+    "fichier": "Biophysique/TP9/fig05-21cd18de.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig05-21cd18de.svg",
+    "octets": 3395
+   },
+   {
+    "n": 6,
+    "legende": "Deux forces opposées sur une protéine",
+    "fichier": "Biophysique/TP9/fig06-9c63ef08.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig06-9c63ef08.svg",
+    "octets": 2070
+   },
+   {
+    "n": 7,
+    "legende": "Ce qui entre, ce qui sort",
+    "fichier": "Biophysique/TP9/fig07-c8fb0b75.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig07-c8fb0b75.svg",
+    "octets": 1874
+   },
+   {
+    "n": 8,
+    "legende": "Égaliser les deux demi-cercles, puis lire E",
+    "fichier": "Biophysique/TP9/fig08-b0c98356.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig08-b0c98356.svg",
+    "octets": 2628
+   },
+   {
+    "n": 9,
+    "legende": "Le patient comparé à la normale",
+    "fichier": "Biophysique/TP9/fig09-d6ccbbe9.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biophysique/TP9/fig09-d6ccbbe9.svg",
+    "octets": 3711
+   }
+  ],
+  "ignores": []
+ },
+ "Physiologie/CM7": {
+  "titre": "Hémostase et fonction défensive du sang",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fil du cours : arrêter la fuite (plaquettes, fibrine), puis repousser les microbes (leucocytes, anticorps).",
+    "fichier": "Physiologie/CM7/fig00-3c12a120.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig00-3c12a120.svg",
+    "octets": 5897
+   },
+   {
+    "n": 1,
+    "legende": "Dans quel ordre, et combien de temps ?",
+    "fichier": "Physiologie/CM7/fig01-cea8de88.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig01-cea8de88.svg",
+    "octets": 3351
+   },
+   {
+    "n": 2,
+    "legende": "D'où vient la plaquette, et comment est-elle faite ?",
+    "fichier": "Physiologie/CM7/fig02-831a0a44.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig02-831a0a44.svg",
+    "octets": 4435
+   },
+   {
+    "n": 3,
+    "legende": "Que se passe-t-il, dans l'ordre, quand le vaisseau se rompt ?",
+    "fichier": "Physiologie/CM7/fig03-14c31026.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig03-14c31026.svg",
+    "octets": 8749
+   },
+   {
+    "n": 4,
+    "legende": "Qui transforme quoi, à la fin de la cascade ?",
+    "fichier": "Physiologie/CM7/fig04-7c3fcf5c.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig04-7c3fcf5c.svg",
+    "octets": 5292
+   },
+   {
+    "n": 5,
+    "legende": "Par où entre-t-on dans la cascade ?",
+    "fichier": "Physiologie/CM7/fig05-0c791203.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig05-0c791203.svg",
+    "octets": 4587
+   },
+   {
+    "n": 6,
+    "legende": "Pourquoi le fils est-il malade et pas la mère ?",
+    "fichier": "Physiologie/CM7/fig06-7e0eab87.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig06-7e0eab87.svg",
+    "octets": 4766
+   },
+   {
+    "n": 7,
+    "legende": "Comment ranger les cinq leucocytes ?",
+    "fichier": "Physiologie/CM7/fig07-73f3d8b0.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig07-73f3d8b0.svg",
+    "octets": 6131
+   },
+   {
+    "n": 9,
+    "legende": "Comment un myéloblaste devient-il un granulocyte ?",
+    "fichier": "Physiologie/CM7/fig09-a6fc8c90.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig09-a6fc8c90.svg",
+    "octets": 5824
+   },
+   {
+    "n": 10,
+    "legende": "Quelles barrières le microbe doit-il franchir ?",
+    "fichier": "Physiologie/CM7/fig10-ce720a05.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig10-ce720a05.svg",
+    "octets": 2472
+   },
+   {
+    "n": 11,
+    "legende": "Comment le leucocyte passe-t-il du sang au tissu ?",
+    "fichier": "Physiologie/CM7/fig11-c48c4bf7.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig11-c48c4bf7.svg",
+    "octets": 4830
+   },
+   {
+    "n": 12,
+    "legende": "D'où viennent les cinq signes ?",
+    "fichier": "Physiologie/CM7/fig12-f357744e.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig12-f357744e.svg",
+    "octets": 4507
+   },
+   {
+    "n": 13,
+    "legende": "Qui parle à qui pour fabriquer les anticorps ?",
+    "fichier": "Physiologie/CM7/fig13-eb67d70c.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig13-eb67d70c.svg",
+    "octets": 5834
+   },
+   {
+    "n": 14,
+    "legende": "Comment le complément tue-t-il une bactérie ?",
+    "fichier": "Physiologie/CM7/fig14-673ac5af.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM7/fig14-673ac5af.svg",
+    "octets": 3920
+   }
+  ],
+  "ignores": [
+   8
+  ]
  }
 }
