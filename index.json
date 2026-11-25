@@ -4177,5 +4177,93 @@
   "ignores": [
    8
   ]
+ },
+ "Physiologie/TP9": {
+  "titre": "Le sang : hémoglobine, paramètres dérivés et leucocytes",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Une prise de sang, deux séries : les numéros renvoient aux parties.",
+    "fichier": "Physiologie/TP9/fig00-6877d815.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig00-6877d815.svg",
+    "octets": 10112
+   },
+   {
+    "n": 1,
+    "legende": "Comment lit-on l'hémoglobine ? On dilue jusqu'à la même couleur.",
+    "fichier": "Physiologie/TP9/fig01-c6c31ed4.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig01-c6c31ed4.svg",
+    "octets": 13361
+   },
+   {
+    "n": 3,
+    "legende": "Où commence l'anémie ?",
+    "fichier": "Physiologie/TP9/fig03-0005254c.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig03-0005254c.svg",
+    "octets": 4421
+   },
+   {
+    "n": 4,
+    "legende": "Combien de bandes pour chaque forme ?",
+    "fichier": "Physiologie/TP9/fig04-4e15a4c2.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig04-4e15a4c2.svg",
+    "octets": 6475
+   },
+   {
+    "n": 6,
+    "legende": "Comment le sang se trahit-il ?",
+    "fichier": "Physiologie/TP9/fig06-6cbe6921.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig06-6cbe6921.svg",
+    "octets": 6753
+   },
+   {
+    "n": 8,
+    "legende": "Que dit le VEM ? Petites, normales ou grandes hématies",
+    "fichier": "Physiologie/TP9/fig08-3b697457.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig08-3b697457.svg",
+    "octets": 3755
+   },
+   {
+    "n": 9,
+    "legende": "Hypochrome ou hyperchrome : la couleur suit l'hémoglobine",
+    "fichier": "Physiologie/TP9/fig09-a005dfd3.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig09-a005dfd3.svg",
+    "octets": 3472
+   },
+   {
+    "n": 10,
+    "legende": "Où compte-t-on, et quelles cellules ?",
+    "fichier": "Physiologie/TP9/fig10-4d2594af.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig10-4d2594af.svg",
+    "octets": 8246
+   },
+   {
+    "n": 11,
+    "legende": "Comment reconnaître les 5 globules blancs ?",
+    "fichier": "Physiologie/TP9/fig11-07d721a2.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig11-07d721a2.svg",
+    "octets": 23375
+   },
+   {
+    "n": 13,
+    "legende": "Que dit cette formule ? Chaque valeur sur sa zone normale",
+    "fichier": "Physiologie/TP9/fig13-fde9d28e.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig13-fde9d28e.svg",
+    "octets": 6016
+   },
+   {
+    "n": 14,
+    "legende": "Ce que demandent ces questions",
+    "fichier": "Physiologie/TP9/fig14-08a63b2e.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/TP9/fig14-08a63b2e.svg",
+    "octets": 2816
+   }
+  ],
+  "ignores": [
+   2,
+   5,
+   7,
+   12
+  ]
  }
 }
