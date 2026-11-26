@@ -1,6 +1,6 @@
 # Schémas de médecine en français
 
-Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 534 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
+Je suis en 1re année de médecine. Pour réviser, je fais des fiches de chaque cours avec Claude, et chaque fiche a ses schémas. Plutôt que de les garder pour moi, je les mets tous ici : 543 pour l'instant, en physio, biochimie, biophysique, anatomie et embryo. Il y en a de nouveaux après chaque cours.
 
 Chaque schéma répond à une question précise (genre « où se place le potentiel de repos, et pourquoi ? ») et se comprend en quelques secondes.
 
@@ -32,7 +32,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP7 · Vascularisation du membre supérieur](Anatomie/TP7/) : 5 schémas
 - [TP8 · Vaisseaux du bassin et du membre inférieur](Anatomie/TP8/) : 3 schémas
 
-### Biochimie (157 schémas)
+### Biochimie (162 schémas)
 
 - [CM1 · Généralités : les bases de chimie du vivant](Biochimie/CM1/) : 15 schémas
 - [CM2 · Peptides et protéines](Biochimie/CM2/) : 19 schémas
@@ -42,6 +42,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [CM6 · Glycolyse et début de la néoglucogenèse](Biochimie/CM6/) : 14 schémas
 - [CM7 · Cycle de Krebs, chaîne respiratoire et énergétique](Biochimie/CM7/) : 11 schémas
 - [CM8 · Glycogène et voie des pentoses phosphates](Biochimie/CM8/) : 10 schémas
+- [CM9 · Fructose, polyols et acide glucuronique](Biochimie/CM9/) : 5 schémas
 - [TP1 · Concentrations, osmolarité et perfusion](Biochimie/TP1/) : 9 schémas
 - [TP3 · Le pH et la charge des acides aminés](Biochimie/TP3/) : 9 schémas
 - [TP4 · Ioniser les acides aminés, puis prélever le sang](Biochimie/TP4/) : 11 schémas
@@ -66,7 +67,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [TP8 · La polarimétrie](Biophysique/TP8/) : 6 schémas
 - [TP9 · Les protéines du sang](Biophysique/TP9/) : 10 schémas
 
-### Physiologie (150 schémas)
+### Physiologie (154 schémas)
 
 - [CM1 · Le vivant et l'homéostasie](Physiologie/CM1/) : 9 schémas
 - [CM2 · Potentiels membranaires, canaux et pompes](Physiologie/CM2/) : 12 schémas
@@ -76,6 +77,7 @@ Chaque schéma répond à une question précise (genre « où se place le potent
 - [CM6 · Hémoglobine, groupes sanguins et début de l'hémostase](Physiologie/CM6/) : 13 schémas
 - [CM7 · Hémostase et fonction défensive du sang](Physiologie/CM7/) : 14 schémas
 - [CM8 · Le tube digestif : rôle et mouvements](Physiologie/CM8/) : 10 schémas
+- [CM9 · Digestion chimique et absorption](Physiologie/CM9/) : 4 schémas
 - [TP2 · Transport membranaire et résistance globulaire](Physiologie/TP2/) : 8 schémas
 - [TP3 · Excitabilité et conduction du nerf et du muscle](Physiologie/TP3/) : 7 schémas
 - [TP4 · EMG et chronaximétrie](Physiologie/TP4/) : 4 schémas
@@ -105,4 +107,4 @@ Si ça t'aide pour tes révisions, une étoile fait plaisir et aide d'autres ét
 
 ---
 
-*534 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*
+*543 diagrams for first-year medical school, in French, made from my own revision sheets. New ones after every lecture. Free to use (CC BY 4.0).*

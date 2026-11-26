@@ -4265,5 +4265,101 @@
    7,
    12
   ]
+ },
+ "Biochimie/CM9": {
+  "titre": "Fructose, polyols et acide glucuronique",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fructose rejoint la glycolyse par un raccourci ; le glucose peut aussi partir vers les polyols ou vers l'acide UDP-glucuronique.",
+    "fichier": "Biochimie/CM9/fig00-f5f896e2.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM9/fig00-f5f896e2.svg",
+    "octets": 3945
+   },
+   {
+    "n": 1,
+    "legende": "Le fructose entre par GLUT5, sort par GLUT2",
+    "fichier": "Biochimie/CM9/fig01-61a32b33.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM9/fig01-61a32b33.svg",
+    "octets": 3042
+   },
+   {
+    "n": 5,
+    "legende": "Le fructose passe à côté du frein",
+    "fichier": "Biochimie/CM9/fig05-6d812fe1.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM9/fig05-6d812fe1.svg",
+    "octets": 3573
+   },
+   {
+    "n": 7,
+    "legende": "Glucose → sorbitol → fructose",
+    "fichier": "Biochimie/CM9/fig07-ab867a47.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM9/fig07-ab867a47.svg",
+    "octets": 2574
+   },
+   {
+    "n": 13,
+    "legende": "Ce qui est interrogé sur ce chapitre",
+    "fichier": "Biochimie/CM9/fig13-6c41dc5e.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/CM9/fig13-6c41dc5e.svg",
+    "octets": 1544
+   }
+  ],
+  "ignores": [
+   2,
+   3,
+   4,
+   6,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ "Physiologie/CM9": {
+  "titre": "Digestion chimique et absorption",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "De la bouche à l'intestin grêle : chaque étage ajoute sa sécrétion, l'absorption se fait dans l'intestin grêle.",
+    "fichier": "Physiologie/CM9/fig00-ab82f19b.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM9/fig00-ab82f19b.svg",
+    "octets": 3200
+   },
+   {
+    "n": 1,
+    "legende": "Seul l'estomac est acide",
+    "fichier": "Physiologie/CM9/fig01-8a15f528.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM9/fig01-8a15f528.svg",
+    "octets": 3321
+   },
+   {
+    "n": 8,
+    "legende": "Émulsionner = casser la graisse en petites gouttes",
+    "fichier": "Physiologie/CM9/fig08-31e9fae1.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM9/fig08-31e9fae1.svg",
+    "octets": 3668
+   },
+   {
+    "n": 9,
+    "legende": "Chaque sucre double a son enzyme",
+    "fichier": "Physiologie/CM9/fig09-d68232e5.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Physiologie/CM9/fig09-d68232e5.svg",
+    "octets": 3687
+   }
+  ],
+  "ignores": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12,
+   13
+  ]
  }
 }
