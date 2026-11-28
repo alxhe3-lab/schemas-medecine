@@ -4361,5 +4361,60 @@
    12,
    13
   ]
+ },
+ "Biochimie/TP9": {
+  "titre": "Dosage de la LDH et de la créatine kinase",
+  "schemas": [
+   {
+    "n": 0,
+    "legende": "Le fil du cours : la LDH et la CK sortent des cellules lésées, on les dose dans le sérum, et le résultat dit quel organe souffre.",
+    "fichier": "Biochimie/TP9/fig00-2494ed18.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig00-2494ed18.svg",
+    "octets": 3696
+   },
+   {
+    "n": 1,
+    "legende": "Une même réaction, une forme par tissu : comment l'isoenzyme montre l'organe",
+    "fichier": "Biochimie/TP9/fig01-e679c325.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig01-e679c325.svg",
+    "octets": 3040
+   },
+   {
+    "n": 2,
+    "legende": "Les 5 isoenzymes de la LDH : de 4 chaînes H à 4 chaînes M",
+    "fichier": "Biochimie/TP9/fig02-b1a6d034.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig02-b1a6d034.svg",
+    "octets": 5259
+   },
+   {
+    "n": 3,
+    "legende": "CK : deux chaînes, trois combinaisons, trois organes",
+    "fichier": "Biochimie/TP9/fig03-6b159263.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig03-6b159263.svg",
+    "octets": 4263
+   },
+   {
+    "n": 4,
+    "legende": "Dosage de la LDH : pourquoi l'absorbance baisse-t-elle ?",
+    "fichier": "Biochimie/TP9/fig04-44d50ad7.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig04-44d50ad7.svg",
+    "octets": 2335
+   },
+   {
+    "n": 5,
+    "legende": "Comment l'ATP fait par la CK devient-il du NADPH mesurable ?",
+    "fichier": "Biochimie/TP9/fig05-e857dcad.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig05-e857dcad.svg",
+    "octets": 4629
+   },
+   {
+    "n": 6,
+    "legende": "Après un infarctus : CK-MB d'abord, puis ASAT, puis LDH qui dure",
+    "fichier": "Biochimie/TP9/fig06-9273bbc6.svg",
+    "url": "https://cdn.jsdelivr.net/gh/alxhe3-lab/schemas-medecine@main/Biochimie/TP9/fig06-9273bbc6.svg",
+    "octets": 2860
+   }
+  ],
+  "ignores": []
  }
 }
